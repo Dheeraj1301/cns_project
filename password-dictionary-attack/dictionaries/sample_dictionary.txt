@@ -1,0 +1,12 @@
+password
+123456
+admin
+letmein
+welcome
+qwerty
+college
+student
+cybersecurity
+streamlit
+demo123
+hello123
